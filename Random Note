@@ -1,2 +1,26 @@
 S1034a happens on Sol 1034, UTC 18:26:30 on 2021-10-23 with duration of 6-7 mins, and it is the result of a new impact creating crater. The diamter is approximately 9m. 
 It is categorized as Very-High-Frequency 
+
+>>>>>> Name for SEIS data <<<<<<<<<
+
+Virtual product: SEIS.CVP.XB.ELYSE.0024.SP.MH.67
+
+- XB : Network
+- ELYSE : Station
+- 0024 : Sol
+- SP : Channel
+- M : Band
+- H : Instrument
+- 67 : Location
+
+Instrument code	Meaning
+D	Pressure
+E	Electronic Test Point (S/C Voltages)
+F	Magnetometer
+H	High Gain Seismometer
+K	Temperature
+L	Low Gain Seismometer
+M	Mass Position Seismometer
+W	Wind
+Y	Non-specified instruments
+Z	Synthesized beam data
