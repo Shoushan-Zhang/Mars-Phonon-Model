@@ -1,0 +1,8 @@
+sol_1000.mat filter=lfs diff=lfs merge=lfs -text
+sol_1034.mat filter=lfs diff=lfs merge=lfs -text
+sol_1094.mat filter=lfs diff=lfs merge=lfs -text
+sol_1160.mat filter=lfs diff=lfs merge=lfs -text
+sol_533.mat filter=lfs diff=lfs merge=lfs -text
+sol_793.mat filter=lfs diff=lfs merge=lfs -text
+sol_981.mat filter=lfs diff=lfs merge=lfs -text
+sol_986.mat filter=lfs diff=lfs merge=lfs -text
