@@ -1,0 +1,67 @@
+Here are the all identified impacts recored by InSight: S0533a,S0793a,S0981c,S0986c,S1000a,S1034a,S1094b,S1160a
+
+Below are details on each impacts:
+
+S0533a:
+Type : VF
+Date : 2020 May 27
+Event Time : 13:46:52 UTC
+N lat : 9.382
+E lon : 135.377
+Distance(km) : 286
+
+S0793a:
+Type : VF
+Date : 2021 Feb 18
+Event Time : 19:35:43 UTC
+N lat : 4.606
+E lon : 134.087
+Distance(km) : 91
+
+S0981c:
+Type : VF
+Date : 2021 Aug 31
+Event Time : 04:03:12 UTC
+N lat : 0.397
+E lon : 135.689
+Distance(km) : 241
+
+S0986c:
+Type : VF
+Date : 2021 Sep 05
+Event Time : 05:23:42 UTC
+N lat : 3.974
+E lon : 136.963
+Distance(km) : 85
+
+S1000a:
+Type : BB
+Date : 2021 Sep 18
+Event Time : 17:46:20 UTC
+N lat : 38.107
+E lon : 280.128
+Distance(km) : 7476
+
+S1034a:
+Type : VF
+Date : 2021 Oct 23
+Event Time : 18:26:30 UTC
+N lat : 3.866
+E lon : 135.107
+Distance(km) : 48
+
+S1094b:
+Type : BB
+Date : 2021 Dec 24
+Event Time : 22:38:02 UTC
+N lat : 35.109
+E lon : 189.829
+Distance(km) : 3462
+
+S1160a:
+Type : VF
+Date : 2022 Mar 02
+Event Time : 06:51:40 UTC
+N lat : 5.099
+E lon : 134.807
+Distance(km) : 60
